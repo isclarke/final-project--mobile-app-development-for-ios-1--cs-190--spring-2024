@@ -13,7 +13,7 @@
 
 ## ❖ Introduction ❖
 
-For this assignment, you’ll be completing the entire **Unit 4: Building Apps | Play** section from our text book. Thus, you’ll be submitting *A. Color Picker*, *B. ChatBot*, *C. Rock, Paper, Scissors*, and *D. MemeMaker*. There’s a folder associated with each app included in this repo.
+For this assignment, you’ll be completing the entire **Unit 4: Building Apps | Play** section from our text book. Thus, you’ll be submitting *A. Color Picker*, *B. ChatBot*, *C. Rock, Paper, Scissors*, and *D. MemeMaker*. A folder associated with each app is included in this repo.
 
 ---
 
